@@ -1,0 +1,3 @@
+export const BASE_PROMPT = "Create a stunning, ultra-realistic and visually captivating image based on the user's prompt. Use professional lighting, accurate proportions, rich textures, balanced composition, and natural color tones. The result should look cinematic, detailed, and artistic — like a professional digital artwork or high-end photograph. Focus on realism, aesthetics, and next-generation design quality. Avoid text, logos, watermarks, distortions, or low-quality visuals.";
+
+export const DEFAULT_NEGATIVE_PROMPT = "low quality, blurry, distorted, unrealistic, watermark, text, grainy, low detail, overexposed, ugly composition, cartoonish, ugly, noisy, human, people, buildings, artificial structures";
